@@ -1,5 +1,5 @@
 # Spendi
-An ASP.NET retail store-front application that tracks inventory, prices, and descriptions of products. A user may authenticate through a portal and purchase products through the sales page.
+A retail store-front application that tracks inventory, prices, and descriptions of products. A user may authenticate through a portal and purchase products through the sales page.
 
 # Installing
 Open the solution in Visual Studio, there are multiple projects in this solution so you may need to add them `Spendi.sln > Add > Existing Project > ...`
